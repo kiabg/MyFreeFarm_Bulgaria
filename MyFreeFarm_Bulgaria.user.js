@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        MyFreeFarm Bulgaria
-// @namespace   http://userscripts.org/scripts/show/XXX
+// @namespace   https://github.com/kiabg/MyFreeFarm_Bulgaria
 // @description Language pack "Bulgaria" for MyFreeFarm Scripts
 // @date        24.10.2014
 // @include     http://veselaferma.com/*
